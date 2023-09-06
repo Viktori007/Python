@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1676326597 source:d:\prila\data1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"data.c"
+	"znak.c"
+
+1676327300 d:\prila\data1\data.c
+
+1676327245 d:\prila\data1\znak.c
+
